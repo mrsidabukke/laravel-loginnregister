@@ -1,0 +1,3 @@
+middleware adalah cara memproteksi halaman tertentu atau menjadi perantara ketika user melakukan request
+
+cara bikin middlewaare::bikin file di middleware , daftarkan di kernel , dan buat logikanya
